@@ -16,9 +16,14 @@ src/main/resources has property files, grid config files, driver executables etc
 Execution Steps:
 
 1. Download project code from https://github.com/uday0901/test-automation repo
+
 2. Once project is configured in intellij/eclipse run below command fron terminal from project root directory
+
+
 $mvn clean install
 
 or 
+
 $mvn install
+
 $mvn test
