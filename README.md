@@ -4,7 +4,9 @@ Automation Framework
 Framework Structure:
 
 src/main/java/com/automation/functional has pom classes, test classes and feature files
+
 src/main/java/com/automation/utilities has all helper classes
+
 src/main/java/com/automation/testdata has all test data files required for autoamtion scripts
 
 
